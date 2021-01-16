@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome 
 
-You can use the [editor on GitHub](https://github.com/afmiddleton/home-automation-pages/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This site documents my efforts, trials, tribulations, muses and hopefully some successes in Home Automation.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## To date
 
-### Markdown
+When we were lucky enough to buy our house in Nov 2011 we needed to modernise and in some case renovate it. Part of this effort was also to turn it into a 'smart house'.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Having had 5+ years of living in rented accomodation and being limited by the temporary changes I could make knowing we had to restore it to 'as was' and having a stock pile of 'this will be useful one day' eBay purchases I rather gleefully set about adding basic automations for lighting, curtain control, telephonics, audio visual, both whole house and cinematics for the living room, and later heating (a number of times!). The outcome was very much work in progress, marshalled by a number of home controllers roughly coupled together with MQTT, Alexa and a decoupled CBus Wiser control system. Frankly it was exciting work in progress that I'd spend evening tweaking and weeks debugging. 
 
-```markdown
-Syntax highlighted code block
+And then the kids arrived...
 
-# Header 1
-## Header 2
-### Header 3
+## Site inventory
 
-- Bulleted
-- List
+@todo
 
-1. Numbered
-2. List
+## Objectives
 
-**Bold** and _Italic_ and `Code` text
+Provide a smart home that;
+- automates basic functionality for time of day, occupency and presence.
+- allows additional intuative 'on demand' control
+- adds fun and simplification of our daily lives
 
-[Link](url) and ![Image](src)
-```
+## Delivery
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/afmiddleton/home-automation-pages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+As the kids have grown a little older and I have a little time for projects I'll document my progress, share my projects and put in place some reminder of how I configured things in case child number 3 arrives.
