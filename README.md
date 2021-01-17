@@ -1,6 +1,6 @@
 ## Welcome 
 
-This site documents my efforts, trials, tribulations, muses and hopefully some successes in Home Automation.
+This [site](https://afmiddleton.github.io/home-automation-pages/) documents my efforts, trials, tribulations, muses and hopefully some successes in Home Automation.
 
 ## To date
 
